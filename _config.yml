@@ -25,8 +25,8 @@ avatar: http://imgs.yansu.org/site-avatar.png
 favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
-disqus:
-  shortname: dxw-zh # suyan-zh
+# disqus:
+  # shortname: dxw-zh # suyan-zh
 
 # google analytics config
 ga:
