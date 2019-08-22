@@ -3,7 +3,7 @@ title: 我的博客
 email: "" # suyan0830@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   我的博客
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://mvme.github.io/jblog/" # the subpath of your site, e.g. /blog/
 url: "http://mvme.github.io/jblog/" # http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: dxw # Su Yan
