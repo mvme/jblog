@@ -36,11 +36,11 @@
 
 #post-toc
   width: $post-toc-width
-  height: 100%
+  $top: $menu-top + $menu-size + $menu-size + 2px
+  height: calc(100% - 106px)
   padding-top: 10px
   position: fixed
-  top: $menu-top + $menu-size + $menu-size + 2px
-  bottom: 0
+  top: $top
   right: -$post-toc-width
   z-index: 30
   background: transparentize($post-toc-bg, 0.1)
