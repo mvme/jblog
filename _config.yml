@@ -7,7 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: dxw # Su Yan
-BASE_PATH : /jblog
+BASE_PATH : /jblog/
+root: /jblog/
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
