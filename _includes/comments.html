@@ -10,7 +10,7 @@
       repo: '{{ site.gitalk.repo }}',
       owner: '{{ site.gitalk.owner }}',
       admin: ['{{ site.gitalk.owner }}'],
-      id: '{{ page.date }}',
+      id: location.pathname,
       distractionFreeMode: false
     });
 
