@@ -28,6 +28,15 @@ favicon: https://lsndm.github.io/favicon.ico
 # disqus:
   # shortname: dxw-zh # suyan-zh
 
+# gittalk config
+gitalk:
+    enable: true
+    owner: mvme
+    repo: mvme.github.io/jblog
+    clientID: 0d5e54c8221ea5f479a0
+    clientSecret: 4c45a4de4b4045b72029d41e9470b8fe814a0ad5
+    admin: mvme
+
 # google analytics config
 ga:
   id: UA-54767140-1
