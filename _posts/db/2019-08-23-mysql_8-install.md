@@ -2,7 +2,7 @@
 layout: post
 title: mysql 8安装
 date: 2019-08-23 11:12:30 +0800
-category: mysql相关
+category: 数据库相关
 tags: mysql
 keywords: mysql
 comments: true
