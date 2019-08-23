@@ -22,7 +22,7 @@
       repo: '{{ site.gitalk.repo }}',
       owner: '{{ site.gitalk.owner }}',
       admin: ['{{ site.gitalk.owner }}'],
-      id: generateUUID(),
+      id: '{{ page.date }}',
       distractionFreeMode: false
     });
 
