@@ -113,7 +113,7 @@ fi
 
 
 
-ip变动错误解决
+ip变动错误解决, 或者[点这里](https://docs.mongodb.com/v3.6/tutorial/reconfigure-replica-set-with-unavailable-members/)
 -----------------------
 
 ```
