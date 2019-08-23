@@ -22,7 +22,7 @@ linkedin: "" # suyan404
 
 # avatar and Favicon
 avatar: /assets/img/avatar.jpg # http://imgs.yansu.org/site-avatar.png
-favicon: http://imgs.yansu.org/site-favicon.ico
+favicon: https://lsndm.github.io/favicon.ico
 
 # disqus config
 # disqus:
